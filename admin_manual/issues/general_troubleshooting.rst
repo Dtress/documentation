@@ -85,7 +85,8 @@ information on these log levels.
 
 Some logging - for example JavaScript console logging - needs debugging
 enabled. Edit :file:`config/config.php` and change ``'debug' => false,`` to
-``'debug' => true,`` Be sure to change it back when you are finished.
+``'debug' => true,`` Be sure to change it back when you are finished. 
+Have a look on the introduction, Types of Values section :doc:`../configuration_server/config_sample_php_parameters.html#types-of-values`
 
 For JavaScript issues you will also need to view the javascript console. All
 major browsers have developer tools for viewing the console, and you
